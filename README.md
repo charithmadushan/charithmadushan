@@ -1,16 +1,18 @@
-## Hi there 👋
+# Charith Madushan
 
-<!--
-**charithmadushan/charithmadushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+Hello! My name is **Charith Madushan**. I am a **22-year-old Software Engineering student** with a strong interest in technology, programming, and building efficient software solutions. I am passionate about learning new technologies and improving my skills in software development.
 
-Here are some ideas to get you started:
+## 🎓 Education
+- **Major:** Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Career Goal
+My goal is to grow as a professional **Software Engineer**, contribute to innovative projects, and develop high-quality software that solves real-world problems.
+
+## 📌 Personal Details
+- **Name:** Charith Madushan  
+- **Age:** 22  
+- **Field:** Software Engineering  
+
+## 📫 Contact
+Feel free to connect with me for collaboration, learning opportunities, or software development projects.
